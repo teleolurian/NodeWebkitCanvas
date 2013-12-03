@@ -1,4 +1,4 @@
-This is a starter node-webkit app using ocanvas as a vendor module.
+This is a starter node-webkit app using EaselJS as a vendor module.
 
 You must have node-webkit installed.
 
