@@ -1,0 +1,9 @@
+{ "name": "node-webkit-ocanvas"
+, "main": "index.html"
+, "window":
+  { "toolbar":  true
+  , "position": "center"
+  , "width":    500
+  , "height":   500
+  }
+}
